@@ -1,0 +1,1 @@
+php vendor/zircote/swagger-php/bin/swagger app/Api -o public/api-docs/swagger.json
